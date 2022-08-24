@@ -1,7 +1,7 @@
 {
-    "magicbit.Servo|block": "舵机|%index|角度 %degree",
-    "magicbit.Servospeed|block": "舵机|%index|开始角度 %degree1|结束角度 %degree2|速度 %speed",
-    "magicbit.StepperDegree|block": "步进电机 28BYJ-48|%index|角度 %degree",
+    "magicbit.Servo|block": "Servo|%index|Angle %degree",
+    "magicbit.Servospeed|block": "Servo|%index|Start Angle %degree1|End Angle %degree2|Speed %speed",
+    "magicbit.StepperDegree|block": "Stepper Motor 28BYJ-48|%index|Angle %degree",
     "magicbit.StepperTurn|block": "步进电机 28BYJ-48|%index|圈数 %turn",
     "magicbit.StepperDual|block": "双步进(角度) |STPM1 %degree1| STPM2 %degree2",
     "magicbit.StpCarMove|block": "步进小车 前进 |距离(cm) %distance|轮直径(mm) %diameter",
