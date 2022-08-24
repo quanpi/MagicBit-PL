@@ -1,5 +1,5 @@
 # MagicBit
-[Phiên bản](README_zh.md)
+[Phiên bản trung](README_zh.md)
 
 [Emakefun](www.emakefun.com) magicbit expansion board for micro:bit
 ![image](icon.png)
