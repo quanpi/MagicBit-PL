@@ -5,7 +5,6 @@
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "Sensorbit": "github:microsoft/pxt-neopixel#v0.7.3"
         
     },
     "files": [
