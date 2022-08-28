@@ -1,1 +1,24 @@
+22 lines (21 sloc)  472 Bytes
 
+{
+    "name": "magicbit",
+    "version": "1.0.0",
+    "description": "Emakefun magicbit expansion board",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "Sensorbit": "github:quanpi/pxt-sensorbit"
+        
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "shims.d.ts",       
+        "_locales/zh/magicbit-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "preferredEditor": "tsprj"
+}
