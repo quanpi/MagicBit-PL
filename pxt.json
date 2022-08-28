@@ -5,7 +5,7 @@
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "Sensorbit": "github:quanpi/pxt-sensorbit"
+        "Sensorbit": "github:quanpi1/pxt-sensorbit"
         
     },
     "files": [
