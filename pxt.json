@@ -1,7 +1,7 @@
 {
-    "name": "magicbit",
+    "name": "Magic:bit",
     "version": "1.0.0",
-    "description": "Emakefun magicbit expansion board",
+    "description": "Emakefun magicbit expansion board. Trasl by quan",
     "license": "MIT",
     "dependencies": {
         "core": "*",
